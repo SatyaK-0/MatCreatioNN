@@ -1,6 +1,6 @@
-<img src="MOFCreatioNN.jpg" width="500" />
+<img src="MatCreatioNN.jpg" width="500" />
 
-<H1>MOFCreatioNN</H1>
+<H1>MatCreatioNN</H1>
 
 <H2>Table of Contents</H2>
 <ul>
@@ -16,7 +16,7 @@
 
 <H2 id="introduction">Introduction</H2>
 <p>
-MOFCreatioNN is an integrated computational framework for the design, evaluation, 
+MatCreatioNN is an integrated computational framework for the design, evaluation, 
 and cost estimation of Metal–Organic Frameworks (MOFs). The system incorporates:
 </p>
 
@@ -82,7 +82,7 @@ https://github.com/SatyaK-0/MatCreatioNN/tree/main
 <H2 id="trained-models">Trained Models</H2>
 <p>
 This repository contains pre-trained neural-network models for all MOF-related predictions 
-performed in the MOFCreatioNN framework, including:
+performed in the MatCreatioNN framework, including:
 </p>
 
 <ul>
